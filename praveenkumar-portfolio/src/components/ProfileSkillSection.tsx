@@ -1,4 +1,4 @@
-import React from "react";
+
 import TechSlider from "./TechSlider";
 
 // 🌐 Programming Languages

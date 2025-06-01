@@ -34,6 +34,8 @@ export const ExperienceSection = () => {
             key={idx}
             frontTitle={edu.frontTitle}
             frontName={edu.frontName}
+            backText="null"
+            frontDate="null"
             frontSubtitle={edu.frontSubtitle}
             backImageSrc={edu.backImageSrc}
           />

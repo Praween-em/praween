@@ -89,6 +89,8 @@ export const Certifi= () => {
             frontTitle={edu.frontTitle}
             frontName={edu.frontName}
             frontSubtitle={edu.frontSubtitle}
+            backText="null"
+            frontDate="null"
             backImageSrc={edu.backImageSrc}
           />
         ))}
